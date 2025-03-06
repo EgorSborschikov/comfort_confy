@@ -1,3 +1,2 @@
-// ignore_for_file: constant_identifier_names
-
-const String API_BASE_URL = "http://192.168.0.191:8000";
+const supabaseUrl = 'https://ivnawbetsjveqvdazara.supabase.co';
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml2bmF3YmV0c2p2ZXF2ZGF6YXJhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDEyNjUwMDIsImV4cCI6MjA1Njg0MTAwMn0.9TfaJa_vtO4oxaWwp7c0svpKcplDhBv8OoE7nA8fpIE';
